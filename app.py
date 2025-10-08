@@ -1,2 +1,2 @@
 print("Hello Worldsa")
-print("Hello  world new")
+print("Hello  world new npm")
